@@ -1,0 +1,15 @@
+{
+  "name": "repository-fork-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for forking and setting up a repository",
+  "main": "forkCloneEnvInstall.js",
+  "scripts": {
+    "start": "node forkCloneEnvInstall.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^5.2.0"
+  }
+}
